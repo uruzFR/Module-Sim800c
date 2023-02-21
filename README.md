@@ -13,27 +13,14 @@ Use and configure the SIM800C module
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://github.com/uruzFR/module-sim800c.git]
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd module-sim800c
 ```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
 
 ## Authors
 
