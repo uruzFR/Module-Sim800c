@@ -30,7 +30,7 @@ Use and configure the SIM800C module
        python name-of-the-scrip.py
 6. Enjoy.
 
-Note: Before running the script, be sure to modify it with the appropriate information for your SIM800C module. This may include modifying the PIN code or phone number.``` 
+Note: Before running the script, be sure to modify it with the appropriate information for your SIM800C module. This may include modifying the PIN code or phone number.
 
 
 ## Authors
