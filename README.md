@@ -8,7 +8,7 @@ Use and configure the SIM800C module
 
 ## Prerequisites
 
-Python 3 installed on your computer
+**Python 3 installed on your computer**
 
 The pyserial module installed (you can install it using pip: pip install pyserial)
 
