@@ -6,13 +6,14 @@ Use and configure the SIM800C module
 
 ![logo](/Images/module.png )
 
-## Prerequisites
+### Prerequisites:
 
--Python 3 installed on your computer
--The pyserial module installed (you can install it using pip: pip install pyserial)
--A SIM800C module connected to a USB port on your computer
+- Python 3 installed on your computer
+- The `pyserial` module installed (you can install it using pip: `pip install pyserial`)
+- A SIM800C module connected to a USB port on your computer
 
-*Make sure the SIM800C module is properly connected and configured before running the script. Also, ensure that the correct serial port used for the SIM800C module is set in the script.*
+<sub>Make sure the SIM800C module is properly connected and configured before running the script. Also, ensure that the correct serial port used for the SIM800C module is set in the script.</sub>
+
 
 ## Configuration
 
