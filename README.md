@@ -29,7 +29,8 @@ Use and configure the SIM800C module
 
        python name-of-the-scrip.py
        
-   *Before using the other scripts, it is important to execute the configuration scripts. After running the configuration scripts, you can modify the other     scripts with your own information and use them as needed.*       
+   *Before using the other scripts, it is important to execute the configuration scripts (in configuration directory). 
+    After running the configuration scripts, you can modify the other scripts with your own information and use them as needed.*       
        
 6. Enjoy.
 
