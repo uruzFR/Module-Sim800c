@@ -21,12 +21,16 @@ Use and configure the SIM800C module
 
        git clone https://github.com/uruzFR/module-sim800c.git
 
-2. Navigate to the directory where the Python script is saved.
-3. Connect the SIM800C module to a USB port on your computer.
-4. Open the Python script in a text editor and modify any necessary information (e.g. PIN code, phone number).
-5. In the command prompt or terminal window, enter the following command to run the Python script: 
+2. Navigate to the directory.
+       
+       cd module-sim800c
+       
+4. Connect the SIM800C module to a USB port on your computer.
+5. Open the Python script in a text editor and modify any necessary information (e.g. PIN code, phone number).
+6. In the command prompt or terminal window, enter the following command to run the Python script: 
 
        python name-of-the-scrip.py
+       
 6. Enjoy.
 
 Note: Before running the script, be sure to modify it with the appropriate information for your SIM800C module. This may include modifying the PIN code or phone number.``` 
