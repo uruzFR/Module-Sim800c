@@ -15,7 +15,7 @@ Use and configure the SIM800C module
 <sub>Make sure the SIM800C module is properly connected and configured before running the script. Also, ensure that the correct serial port used for the SIM800C module is set in the script.</sub>
 
 
-## Configuration :
+## Usage :
 
 Clone the project
 
