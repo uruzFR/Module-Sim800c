@@ -34,6 +34,15 @@ Use and configure the SIM800C module
        
 6. Enjoy.
 
+## Info :
+
+1. Show TTY
+
+      dmesg | grep tty
+2. If you encounter an error, I recommend that you remove Brltty.
+
+      sudo apt remove brltty
+
 
 ## Authors
 
