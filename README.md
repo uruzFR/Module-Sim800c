@@ -47,5 +47,3 @@ Use and configure the SIM800C module
 ## Authors
 
 - [@uruzFR](https://github.com/uruzFR)
-
-TEST
